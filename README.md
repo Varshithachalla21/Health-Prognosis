@@ -20,27 +20,27 @@ Research-driven approach with literature survey and methodology
 
 🛠 **Technologies Used**
 
-Python (core development & ML models)
+**Python** (core development & ML models)
 
-Flask (web framework)
+**Flask** (web framework)
 
-NoSQL Database (MongoDB / similar)
+**NoSQL Database**(MongoDB / similar)
 
-Machine Learning Algorithms (classification & prediction models)
+**Machine Learning Algorithms** (classification & prediction models)
 
-HTML, CSS, JavaScript (frontend UI)
+**HTML, CSS, JavaScript** (frontend UI)
 
 🏗 **System Architecture**
 
 The system consists of:
 
-Frontend: Flask + HTML/CSS/JS for patient input & results display
+**Frontend**: Flask + HTML/CSS/JS for patient input & results display
 
-Backend: Python ML models integrated with Flask APIs
+**Backend**: Python ML models integrated with Flask APIs
 
-Database: NoSQL for scalable health data storage
+**Database**: NoSQL for scalable health data storage
 
-Security: Authentication & privacy requirements considered
+**Security**: Authentication & privacy requirements considered
 
 📑 **Research Paper**
 
